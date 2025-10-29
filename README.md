@@ -1,4 +1,4 @@
-# AGRICONNECT-Smart Farming
+# AGRICONNECT-Smart Farming🌽
   (farming made simple)
 This is a progressive web application that empowers farmers in Tharaka Nithi county,Kenya.'
 
